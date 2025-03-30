@@ -1,0 +1,22 @@
+CREATE TABLE relatorio_cadop (
+    registro_ans INT NOT NULL,
+    cnpj BIGINT NOT NULL,
+    razao_social TEXT NOT NULL,
+    nome_fantasia TEXT,
+    modalidade TEXT NOT NULL,
+    logradouro TEXT NOT NULL,
+    numero TEXT,
+    complemento TEXT,
+    bairro TEXT NOT NULL,
+    cidade TEXT NOT NULL,
+    uf CHAR(2) NOT NULL,
+    cep INT NOT NULL,
+    ddd INT,
+    telefone BIGINT,
+    fax BIGINT,
+    endereco_eletronico TEXT,
+    representante TEXT NOT NULL,
+    cargo_representante TEXT NOT NULL,
+    regiao_de_comercializacao INT,
+    data_registro_ans DATE
+);
