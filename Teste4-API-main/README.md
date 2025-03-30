@@ -46,3 +46,9 @@ Esse comando permite que o frontend envie requisições para o backend e exiba o
 
 3️    Acesse a aplicação no navegador:
    - http://localhost:5173
+
+============================================
+  Coleção Postman
+============================================
+
+  https://gabril64.postman.co/workspace/Gabril64's-Workspace~6123555e-c1d8-4de7-8728-7e076d0deca6/collection/43596617-443d8ba7-0d34-4907-bb58-9e9b973dff91?action=share&creator=43596617
